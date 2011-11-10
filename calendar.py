@@ -38,9 +38,9 @@ def linkURLs(str):
 def HTMLGenerater(temp):
     fw=open('index.html','w')
     fw.write('''<html>
-<title>東工大電気情報系2013カレンダー</title>
+<title></title>
 <table border="1" cellpadding="5">
-<caption>東工大電気情報系カレンダー</caption>
+<caption></caption>
   <tr>
     <th>日程</th>
     <th>イベント</th>
